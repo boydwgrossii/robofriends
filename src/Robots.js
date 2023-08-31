@@ -31,7 +31,7 @@ export const robots = [
     },
     {
       id: 6,
-      name: '. Dennis Schulist',
+      name: 'Dr. Dennis Schulist',
       username: 'Leopoldo_Corkery',
       email: 'Karley_Dach@jasper.info'
     },
